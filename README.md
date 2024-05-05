@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-<img src="animated/light_1.gif" height="20px" />  I am a Full Stack Developer with engineering experience specializing in Backend, Dev-Ops and Cloud. I like doing cool things like exploring recent tools in the software industry, writing technical articles on Medium, and participating in coding competitions. I have hands-on experience in developing large-scale production-level apps. My managers have always appreciated me for things like writing “efficient code, " taking ownership of other teams' tasks and introducing new processes that helped achieve faster quality results.
+<img src="animated/light_1.gif" height="20px" />  I am a Full Stack Developer with engineering experience specializing in Front-end as well as in Back-end, Dev-Ops and Cloud. I like doing cool things like exploring recent tools in the software industry, writing technical articles on Medium, and participating in coding competitions. I have hands-on experience in developing large-scale production-level apps. My managers have always appreciated me for things like writing “efficient code, " taking ownership of other teams' tasks and introducing new processes that helped achieve faster quality results.
 
 <ul>
 <li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
