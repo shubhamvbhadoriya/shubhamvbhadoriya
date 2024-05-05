@@ -356,7 +356,7 @@
 ## 🏅 Achievements
 
 -    🥇 **Received #18 and #23 prizes** in hackathons held at **IIT Bombay** TechFest
--    📜 **40+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
+-    📜 **15+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
 -    👩🏼‍💻 **5+ project repos** in _Github_
 -    📝 **3+ articles** in _Medium_ and _Dev_
 
