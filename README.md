@@ -355,14 +355,9 @@
 
 ## 🏅 Achievements
 
--    🥇 **Received #1 and #2 prizes** in hackathons held at **IIT Bombay** TechFest
+-    🥇 **Received #18 and #23 prizes** in hackathons held at **IIT Bombay** TechFest
 -    📜 **40+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **50+ project repos** in _Github_
--    📝 **10+ articles** in _Medium_ and _Dev_
+-    👩🏼‍💻 **5+ project repos** in _Github_
+-    📝 **3+ articles** in _Medium_ and _Dev_
 
 
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![shubhamvbhadoriya snake gif](https://github.com/shubhamvbhadoriya/github-contribution-grid-snake.svg)
