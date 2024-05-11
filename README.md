@@ -355,9 +355,8 @@
 
 ## 🏅 Achievements
 
--    🥇 **Received #18 and #23 rank** in hackathons held at **IIT Bombay** TechFest
--    📜 **15+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **5+ project repos** in _Github_
+-    📜 **5+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
+-    👩🏼‍💻 **10+ project repos** in _Github_
 -    📝 **3+ articles** in Web.dev
 
 
